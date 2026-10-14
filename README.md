@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/trash_coder-assumido_🗑️-ff69b4?style=flat-square">
+<img src="https://img.shields.io/badge/trash_coder-newba_🗑️-ff69b4?style=flat-square">
 <img src="https://img.shields.io/badge/vibe-coded_✨-b48ead?style=flat-square">
 
 </div>
